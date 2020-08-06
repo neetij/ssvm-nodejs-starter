@@ -5,7 +5,7 @@ Getting to know Rust, Node, and WASM.
 
 # Notes
 
-This repo is courtesy SecondState's (Raspberry Pi giveaway)[https://www.secondstate.io/articles/raspberry-pi-for-free-20200709/].  
+This repo is courtesy SecondState's [Raspberry Pi giveaway](https://www.secondstate.io/articles/raspberry-pi-for-free-20200709/).  
 [Fork the original project](https://github.com/second-state/ssvm-nodejs-starter/fork) to create your own Rust functions in Node.js. [Learn more](https://www.secondstate.io/articles/getting-started-rust-nodejs-vscode/)
 
 # Use Docker to build and run
