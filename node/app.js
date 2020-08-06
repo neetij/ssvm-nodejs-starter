@@ -1,4 +1,4 @@
-/*const { say, circumference } = require('../pkg/ssvm_nodejs_starter_lib.js');
+const { say } = require('../pkg/ssvm_nodejs_starter_lib.js');
 
 const http = require('http');
 const url = require('url');
@@ -11,14 +11,10 @@ const server = http.createServer((req, res) => {
     res.end(`Please use command curl http://${hostname}:${port}/?name=MyName \n`);
   } else {
     x = 10;
-    console.log(circumference(JSON.stringify(x)));
-    // res.end(say(queryObject['name']) + '\n');
-    res.end('circumference:' + circumference(JSON.stringify(x)) + '\n');
+    res.end(say(queryObject['name']) + '\n');
   }
 });
 
 server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
-*/
-console.log('app.js');
