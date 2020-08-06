@@ -1,3 +1,6 @@
+This repo is courtesy SecondState's (Raspberry Pi giveaway)[https://www.secondstate.io/articles/raspberry-pi-for-free-20200709/].  
+I will attempt to build an app that uses the Sieve of Eratosthenes to find whether a number is prime.
+
 # Getting started
 
 ![Build and test](https://github.com/second-state/ssvm-nodejs-starter/workflows/Build%20and%20test/badge.svg)
